@@ -1,0 +1,41 @@
+@charset "UTF-8";
+p{
+    color: #B00ED6;
+    
+	font-family: 'Hachi Maru Pop', cursive;
+
+	
+	
+}
+
+body{
+    background-color: #80CCDC;	
+	
+	
+}
+.pinky{
+	
+	color: #B00ED6;
+}
+.greer{
+	
+	
+	color: #24641D
+	
+	
+}#zaza {
+    color: #7F8023;
+    font-style: italic;
+    font-size: large;
+}
+
+.myheader{
+    width: 100%;
+    height: 100px;
+    background-color: #A5A879;
+    background-image: url(../images/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 15px;
+    margin-right: 15px;
+}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+	
+.myhearder {
+    background-image: url("../images/header_bg.jpg");
+    height: 200px;
+    color: #D46466;
+
+
+}
+
+.myblue{
+	
+	background-color: aqua;
+}
+.myred{
+	
+	
+	background-color: crimson;
+}
+
+.myboxsize{
+	height: 600px;
+	
+	
+}
