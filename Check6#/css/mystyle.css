@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+	
+.myhearder {
+    background-image: url("../images/header_bg.jpg");
+    height: 200px;
+    color: #D46466;
+
+
+}
+
+.myblue{
+	
+	background-color: aqua;
+}
+.myred{
+	
+	
+	background-color: crimson;
+}
+
+.myboxsize{
+	height: auto;
+	margin: 10px; 
+	padding: 5px;
+	
+	
+} 
+
+.mypicturebox{
+	height: 300px;
+	margin: 10px; 
+	padding: 5px;
+	
+	
+} 
+.myempty{
+	
+	
+	
+}
+.mycontainer{
+	background-color: #181818;
+	
+	
+	
+	
+}
+.mynavbar{
+	background: #181818;
+	
+	
+}
+#colorforsquare{
+	background-color: cadetblue;
+	border:dotted;
+	
+	
+}
+
+.featurette-heading{
+	
+	font-family: 'Noto Sans KR', sans-serif;}
